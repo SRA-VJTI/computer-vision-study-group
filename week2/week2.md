@@ -58,7 +58,8 @@
     ![](https://i.imgur.com/oD7Q0kF.jpg)
     
     ![](https://i.imgur.com/1l7JaCN.png) 
-    The bilinear image, when zoomed in, has a starry look to it, which isn't noticebale in bicubic
+   
+   The bilinear image, when zoomed in, has a starry look to it, which isn't noticebale in bicubic
     
 
 ### 4. Convolutions 
@@ -70,7 +71,7 @@
         - Map to old coordinates
         - Interpolate old values
     3. Fill in the pixels
-        - For outer pixels, padding is Other methodsused
+        - For outer pixels, padding is used
     ![](https://i.imgur.com/PTmD8ha.png)
 
 - For reducing size, problem with resizing using interpolation methods is the fact that the closer pixels to the POI influence the image heavily, and therefore, can produce blocky artifacts
