@@ -1,5 +1,15 @@
 # COMPUTER VISION NOTES - WEEK 1
 
+- [INTRODUCTION - Tiers of CV](#1-introduction---tiers-of-cv)
+    - [Low - level](#i-low---level)
+    - [Mid - level](#ii-mid-level-vision)
+    - [High - level](#iii-high-level-vision)
+- [Human Vison](#2-human-vision)
+    - [Evolution of eyes](#i-evolution-of-eyes)
+    - [How human eyes work?](#ii-how-human-eyes-work)
+    - [Light](#iii-light)
+    - [For computers](#iv-for-computers)
+
 ## 1. INTRODUCTION - Tiers of CV
 
 ### i. Low - level
@@ -69,6 +79,7 @@ Eyes; sensors for vision
 The more complex the eyes get, the more acuity is obtained, i.e, the direction from where the light is coming.
 Refractive elements help in letting in more light and also increases acuity
 Focusing is also possible by changing the refraction of the lens
+
 ![](https://i.imgur.com/paG0LMF.png)
 
 Hence, all these attributes of a complex eyes allow for image formation.
@@ -78,13 +89,15 @@ The light entering firsts hits the retina, which is then absorbed by the photose
 
 - Rods: for low light, monochrome vision. 
 - Cones: Colored, detailed vision
+
 ![](https://i.imgur.com/IltCyt6.png)
+
 - Fovea: small area on the retina, has highest visual acuity
 
 ![](https://i.imgur.com/qU7rrnu.png)
 
-- 
-![](https://i.imgur.com/0hcWA7b.png)
+- ![](https://i.imgur.com/0hcWA7b.png)
+
 - Brains and Eyes co-exist
   Visual Cortex interprets data as follows
   - V1: primary vc, edge detection and spatially sensitive
